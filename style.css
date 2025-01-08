@@ -85,18 +85,5 @@ ul li {
     margin-top: .75rem;
 }
 
-footer {
-    text-align: center;
-    margin-top: 1.75rem;
-    padding-bottom: 3rem;
-}
 
-footer span {
-    color: var(--text-color-on-bg );
-    font-weight: 400;
-}
-
-footer span img {
-    vertical-align: middle;
-}
 
